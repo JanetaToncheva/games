@@ -1,0 +1,6 @@
+Game of snake
+
+Classical game of snake known from far back when we had it on our Nokia 3310 phones
+The goal is to move the snake to the piece of food it eats so that it gets longer after each eaten piece
+If the snake collides with the walls of the screen or with its own tail it's game over
+The game also keeps score and remembers the highest achieved score.
