@@ -1,0 +1,7 @@
+Game of ping-pong
+
+A simple game of ping-pong, similar to one of the first computer / arcade games ever created.
+The right paddle is controlled by the Up and Down keys, the left one by the W and S keys.
+The goal is to pass the ball back and forth gaining points, without missing it.
+The ball will speed up after a successful hit
+If the opponent misses 3 shots more than you, they lose.
