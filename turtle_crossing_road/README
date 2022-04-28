@@ -1,0 +1,6 @@
+Turtle crossing the road
+
+The goal of this game is to make the turtle cross the road safely without being hit by a car
+To control the turtle, press the Up arrow
+If you get hit by a car, it's game over
+After each successful crossing you level up and the cars speed up
